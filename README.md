@@ -1,4 +1,5 @@
 This is a simple python game of Tic-Tac-Toe with OOP principles and added with a minimax algorithm for the computer to be unbeatable
+
 V1: 
 -Used pygame to draw and construct the screen and the board and to handle keypresses and clicks
 -Used numpy to construct multidimensional arryays that can store the positions of X's and O's 
